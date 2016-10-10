@@ -1,0 +1,822 @@
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Classification Error:
+------------------------------------------------------------------
+No. 7 sample, class: 0, prediction: 1
+Email Content:
+
+A home based business opportunity is knocking at your door.
+
+Don�t be rude and let this chance go by.
+
+You can earn a great income and find
+your financial life transformed.
+
+Learn more Here.
+
+
+
+To Your Success.
+
+Work From Home Finder Experts
+------------------------------------------------------------------
+Total test samples: 10
+error classification number: 1
+The error rate is: 0.1
+Classification Error:
+------------------------------------------------------------------
+No. 9 sample, class: 0, prediction: 1
+Email Content:
+
+A home based business opportunity is knocking at your door.
+
+Don�t be rude and let this chance go by.
+
+You can earn a great income and find
+your financial life transformed.
+
+Learn more Here.
+
+
+
+To Your Success.
+
+Work From Home Finder Experts
+------------------------------------------------------------------
+Total test samples: 10
+error classification number: 1
+The error rate is: 0.1
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Classification Error:
+------------------------------------------------------------------
+No. 9 sample, class: 0, prediction: 1
+Email Content:
+
+A home based business opportunity is knocking at your door.
+
+Don�t be rude and let this chance go by.
+
+You can earn a great income and find
+your financial life transformed.
+
+Learn more Here.
+
+
+
+To Your Success.
+
+Work From Home Finder Experts
+------------------------------------------------------------------
+Total test samples: 10
+error classification number: 1
+The error rate is: 0.1
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Classification Error:
+------------------------------------------------------------------
+No. 3 sample, class: 0, prediction: 1
+Email Content:
+
+OEM Adobe & Microsoft softwares
+Fast order and download
+
+Microsoft Office Professional Plus 2007/2010 $129
+Microsoft Windows 7 Ultimate $119
+Adobe Photoshop CS5 Extended
+Adobe Acrobat 9 Pro Extended
+Windows XP Professional & thousand more titles
+------------------------------------------------------------------
+No. 5 sample, class: 1, prediction: 0
+Email Content:
+
+yeah I am ready.  I may not be here because Jar Jar has plane tickets to Germany for me.
+------------------------------------------------------------------
+Total test samples: 10
+error classification number: 2
+The error rate is: 0.2
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Classification Error:
+------------------------------------------------------------------
+No. 7 sample, class: 1, prediction: 0
+Email Content:
+
+
+SciFinance now automatically generates GPU-enabled pricing & risk model source code that runs up to 50-300x faster than serial code using a new NVIDIA Fermi-class Tesla 20-Series GPU.
+
+SciFinance� is a derivatives pricing and risk model development tool that automatically generates C/C++ and GPU-enabled source code from concise, high-level model specifications. No parallel computing or CUDA programming expertise is required.
+
+SciFinance's automatic, GPU-enabled Monte Carlo pricing model source code generation capabilities have been significantly extended in the latest release. This includes:
+
+
+------------------------------------------------------------------
+Total test samples: 10
+error classification number: 1
+The error rate is: 0.1
+Classification Error:
+------------------------------------------------------------------
+No. 5 sample, class: 0, prediction: 1
+Email Content:
+
+A home based business opportunity is knocking at your door.
+
+Don�t be rude and let this chance go by.
+
+You can earn a great income and find
+your financial life transformed.
+
+Learn more Here.
+
+
+
+To Your Success.
+
+Work From Home Finder Experts
+------------------------------------------------------------------
+Total test samples: 10
+error classification number: 1
+The error rate is: 0.1
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Classification Error:
+------------------------------------------------------------------
+No. 1 sample, class: 1, prediction: 0
+Email Content:
+
+
+SciFinance now automatically generates GPU-enabled pricing & risk model source code that runs up to 50-300x faster than serial code using a new NVIDIA Fermi-class Tesla 20-Series GPU.
+
+SciFinance� is a derivatives pricing and risk model development tool that automatically generates C/C++ and GPU-enabled source code from concise, high-level model specifications. No parallel computing or CUDA programming expertise is required.
+
+SciFinance's automatic, GPU-enabled Monte Carlo pricing model source code generation capabilities have been significantly extended in the latest release. This includes:
+
+
+------------------------------------------------------------------
+Total test samples: 10
+error classification number: 1
+The error rate is: 0.1
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Classification Error:
+------------------------------------------------------------------
+No. 0 sample, class: 0, prediction: 1
+Email Content:
+
+A home based business opportunity is knocking at your door.
+
+Don�t be rude and let this chance go by.
+
+You can earn a great income and find
+your financial life transformed.
+
+Learn more Here.
+
+
+
+To Your Success.
+
+Work From Home Finder Experts
+------------------------------------------------------------------
+No. 3 sample, class: 0, prediction: 1
+Email Content:
+
+Experience with BiggerPenis Today! Grow 3-inches more
+
+The Safest & Most Effective Methods Of_PenisEn1argement.
+Save your time and money!
+BetterErections with effective Ma1eEnhancement products.
+
+#1 Ma1eEnhancement Supplement. Trusted by Millions. Buy Today!
+------------------------------------------------------------------
+Total test samples: 10
+error classification number: 2
+The error rate is: 0.2
+Classification Error:
+------------------------------------------------------------------
+No. 3 sample, class: 0, prediction: 1
+Email Content:
+
+A home based business opportunity is knocking at your door.
+
+Don�t be rude and let this chance go by.
+
+You can earn a great income and find
+your financial life transformed.
+
+Learn more Here.
+
+
+
+To Your Success.
+
+Work From Home Finder Experts
+------------------------------------------------------------------
+Total test samples: 10
+error classification number: 1
+The error rate is: 0.1
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Classification Error:
+------------------------------------------------------------------
+No. 8 sample, class: 0, prediction: 1
+Email Content:
+
+A home based business opportunity is knocking at your door.
+
+Don�t be rude and let this chance go by.
+
+You can earn a great income and find
+your financial life transformed.
+
+Learn more Here.
+
+
+
+To Your Success.
+
+Work From Home Finder Experts
+------------------------------------------------------------------
+Total test samples: 10
+error classification number: 1
+The error rate is: 0.1
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Classification Error:
+------------------------------------------------------------------
+No. 6 sample, class: 0, prediction: 1
+Email Content:
+
+A home based business opportunity is knocking at your door.
+
+Don�t be rude and let this chance go by.
+
+You can earn a great income and find
+your financial life transformed.
+
+Learn more Here.
+
+
+
+To Your Success.
+
+Work From Home Finder Experts
+------------------------------------------------------------------
+No. 7 sample, class: 0, prediction: 1
+Email Content:
+
+OEM Adobe & Microsoft softwares
+Fast order and download
+
+Microsoft Office Professional Plus 2007/2010 $129
+Microsoft Windows 7 Ultimate $119
+Adobe Photoshop CS5 Extended
+Adobe Acrobat 9 Pro Extended
+Windows XP Professional & thousand more titles
+------------------------------------------------------------------
+Total test samples: 10
+error classification number: 2
+The error rate is: 0.2
+Classification Error:
+------------------------------------------------------------------
+No. 7 sample, class: 0, prediction: 1
+Email Content:
+
+A home based business opportunity is knocking at your door.
+
+Don�t be rude and let this chance go by.
+
+You can earn a great income and find
+your financial life transformed.
+
+Learn more Here.
+
+
+
+To Your Success.
+
+Work From Home Finder Experts
+------------------------------------------------------------------
+Total test samples: 10
+error classification number: 1
+The error rate is: 0.1
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Classification Error:
+------------------------------------------------------------------
+No. 4 sample, class: 1, prediction: 0
+Email Content:
+
+yeah I am ready.  I may not be here because Jar Jar has plane tickets to Germany for me.
+------------------------------------------------------------------
+Total test samples: 10
+error classification number: 1
+The error rate is: 0.1
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Classification Error:
+------------------------------------------------------------------
+No. 2 sample, class: 0, prediction: 1
+Email Content:
+
+OEM Adobe & Microsoft softwares
+Fast order and download
+
+Microsoft Office Professional Plus 2007/2010 $129
+Microsoft Windows 7 Ultimate $119
+Adobe Photoshop CS5 Extended
+Adobe Acrobat 9 Pro Extended
+Windows XP Professional & thousand more titles
+------------------------------------------------------------------
+Total test samples: 10
+error classification number: 1
+The error rate is: 0.1
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Classification Error:
+------------------------------------------------------------------
+No. 8 sample, class: 0, prediction: 1
+Email Content:
+
+A home based business opportunity is knocking at your door.
+
+Don�t be rude and let this chance go by.
+
+You can earn a great income and find
+your financial life transformed.
+
+Learn more Here.
+
+
+
+To Your Success.
+
+Work From Home Finder Experts
+------------------------------------------------------------------
+Total test samples: 10
+error classification number: 1
+The error rate is: 0.1
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Classification Error:
+------------------------------------------------------------------
+No. 6 sample, class: 0, prediction: 1
+Email Content:
+
+A home based business opportunity is knocking at your door.
+
+Don�t be rude and let this chance go by.
+
+You can earn a great income and find
+your financial life transformed.
+
+Learn more Here.
+
+
+
+To Your Success.
+
+Work From Home Finder Experts
+------------------------------------------------------------------
+Total test samples: 10
+error classification number: 1
+The error rate is: 0.1
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Classification Error:
+------------------------------------------------------------------
+No. 8 sample, class: 1, prediction: 0
+Email Content:
+
+yeah I am ready.  I may not be here because Jar Jar has plane tickets to Germany for me.
+------------------------------------------------------------------
+Total test samples: 10
+error classification number: 1
+The error rate is: 0.1
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Classification Error:
+------------------------------------------------------------------
+No. 7 sample, class: 0, prediction: 1
+Email Content:
+
+OEM Adobe & Microsoft softwares
+Fast order and download
+
+Microsoft Office Professional Plus 2007/2010 $129
+Microsoft Windows 7 Ultimate $119
+Adobe Photoshop CS5 Extended
+Adobe Acrobat 9 Pro Extended
+Windows XP Professional & thousand more titles
+------------------------------------------------------------------
+Total test samples: 10
+error classification number: 1
+The error rate is: 0.1
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Classification Error:
+------------------------------------------------------------------
+No. 8 sample, class: 0, prediction: 1
+Email Content:
+
+A home based business opportunity is knocking at your door.
+
+Don�t be rude and let this chance go by.
+
+You can earn a great income and find
+your financial life transformed.
+
+Learn more Here.
+
+
+
+To Your Success.
+
+Work From Home Finder Experts
+------------------------------------------------------------------
+Total test samples: 10
+error classification number: 1
+The error rate is: 0.1
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Classification Error:
+------------------------------------------------------------------
+No. 4 sample, class: 0, prediction: 1
+Email Content:
+
+A home based business opportunity is knocking at your door.
+
+Don�t be rude and let this chance go by.
+
+You can earn a great income and find
+your financial life transformed.
+
+Learn more Here.
+
+
+
+To Your Success.
+
+Work From Home Finder Experts
+------------------------------------------------------------------
+Total test samples: 10
+error classification number: 1
+The error rate is: 0.1
+Classification Error:
+------------------------------------------------------------------
+No. 7 sample, class: 0, prediction: 1
+Email Content:
+
+A home based business opportunity is knocking at your door.
+
+Don�t be rude and let this chance go by.
+
+You can earn a great income and find
+your financial life transformed.
+
+Learn more Here.
+
+
+
+To Your Success.
+
+Work From Home Finder Experts
+------------------------------------------------------------------
+Total test samples: 10
+error classification number: 1
+The error rate is: 0.1
+Classification Error:
+------------------------------------------------------------------
+No. 0 sample, class: 0, prediction: 1
+Email Content:
+
+A home based business opportunity is knocking at your door.
+
+Don�t be rude and let this chance go by.
+
+You can earn a great income and find
+your financial life transformed.
+
+Learn more Here.
+
+
+
+To Your Success.
+
+Work From Home Finder Experts
+------------------------------------------------------------------
+No. 9 sample, class: 1, prediction: 0
+Email Content:
+
+yeah I am ready.  I may not be here because Jar Jar has plane tickets to Germany for me.
+------------------------------------------------------------------
+Total test samples: 10
+error classification number: 2
+The error rate is: 0.2
+Classification Error:
+------------------------------------------------------------------
+No. 0 sample, class: 0, prediction: 1
+Email Content:
+
+A home based business opportunity is knocking at your door.
+
+Don�t be rude and let this chance go by.
+
+You can earn a great income and find
+your financial life transformed.
+
+Learn more Here.
+
+
+
+To Your Success.
+
+Work From Home Finder Experts
+------------------------------------------------------------------
+No. 3 sample, class: 1, prediction: 0
+Email Content:
+
+yeah I am ready.  I may not be here because Jar Jar has plane tickets to Germany for me.
+------------------------------------------------------------------
+Total test samples: 10
+error classification number: 2
+The error rate is: 0.2
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Classification Error:
+------------------------------------------------------------------
+No. 6 sample, class: 0, prediction: 1
+Email Content:
+
+A home based business opportunity is knocking at your door.
+
+Don�t be rude and let this chance go by.
+
+You can earn a great income and find
+your financial life transformed.
+
+Learn more Here.
+
+
+
+To Your Success.
+
+Work From Home Finder Experts
+------------------------------------------------------------------
+Total test samples: 10
+error classification number: 1
+The error rate is: 0.1
+Classification Error:
+------------------------------------------------------------------
+No. 8 sample, class: 0, prediction: 1
+Email Content:
+
+A home based business opportunity is knocking at your door.
+
+Don�t be rude and let this chance go by.
+
+You can earn a great income and find
+your financial life transformed.
+
+Learn more Here.
+
+
+
+To Your Success.
+
+Work From Home Finder Experts
+------------------------------------------------------------------
+Total test samples: 10
+error classification number: 1
+The error rate is: 0.1
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Total test samples: 10
+error classification number: 0
+The error rate is: 0.0
+Classification Error:
+------------------------------------------------------------------
+No. 3 sample, class: 0, prediction: 1
+Email Content:
+
+A home based business opportunity is knocking at your door.
+
+Don�t be rude and let this chance go by.
+
+You can earn a great income and find
+your financial life transformed.
+
+Learn more Here.
+
+
+
+To Your Success.
+
+Work From Home Finder Experts
+------------------------------------------------------------------
+No. 5 sample, class: 0, prediction: 1
+Email Content:
+
+OEM Adobe & Microsoft softwares
+Fast order and download
+
+Microsoft Office Professional Plus 2007/2010 $129
+Microsoft Windows 7 Ultimate $119
+Adobe Photoshop CS5 Extended
+Adobe Acrobat 9 Pro Extended
+Windows XP Professional & thousand more titles
+------------------------------------------------------------------
+Total test samples: 10
+error classification number: 2
+The error rate is: 0.2
+------------------------------------------------------------------
+Run SpamTest for 100 times
+Total number of error classification: 32,
+Total number of test samples: 1000
+among which there are 7 ham emails have been classified into spam emails.
+------------------------------------------------------------------
+RunningTime: 2.008018 sec
+WaitingTime: 0:00:01.960502

@@ -10,7 +10,7 @@
   * CSDMC2010_SPAM.out(large-email.py输出文件）
 * email(无数据，需要另行放入)
 * CSDM2010_SPAM（无数据，需要另行放入）
-* 14307130356.pdf （报告）
+* report.pdf （报告）
 
 ## 2.部分说明
 * 对email数据集取10个文本交叉验证，运行100次
